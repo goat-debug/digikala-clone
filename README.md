@@ -1,18 +1,17 @@
 # Digikala Landing Page Clone
 
 This project is a responsive clone of the Digikala homepage, built with **HTML**, **CSS**, and **Bootstrap**.  
-It was developed as a front-end practice project to improve layout skills and responsive design without using JavaScript.
+It was developed as a front-end practice project to improve layout skills and responsive design.
 
-## ✨ Features
+## Features
 
 - Fully designed header (logo, search bar, login/register, cart icon)
 - Navigation bar with product categories
 - Static promotional banners (mocked slider)
 - Responsive layout for both desktop and mobile
 - Persian font (Vazir) for professional typography
-- No JavaScript used
 
-## 📁 Project Structure
+## Project Structure
 
 digikala-clone/
 ├── index.html
@@ -23,7 +22,7 @@ digikala-clone/
 │ ├──
 │ └──
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
    git clone https://github.com/goat-debug/digikala-clone.git
